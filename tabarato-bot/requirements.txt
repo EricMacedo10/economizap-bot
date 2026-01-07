@@ -1,0 +1,86 @@
+# ====================================
+# CORE DEPENDENCIES
+# ====================================
+
+# Telegram Bot Framework
+python-telegram-bot==20.7
+
+# Async HTTP Client
+aiohttp==3.9.1
+
+# HTTP Requests Library
+requests==2.31.0
+
+# ====================================
+# DATABASE
+# ====================================
+
+# ORM (Object-Relational Mapping)
+sqlalchemy==2.0.25
+
+# PostgreSQL Adapter
+psycopg2-binary==2.9.9
+
+# Database Migrations (optional, for future use)
+alembic==1.13.1
+
+# ====================================
+# DATA VALIDATION & PROCESSING
+# ====================================
+
+# Data Validation
+pydantic==2.5.3
+
+# String Similarity Matching
+fuzzywuzzy==0.18.0
+python-Levenshtein==0.23.0
+
+# ====================================
+# UTILITIES
+# ====================================
+
+# Environment Variables
+python-dotenv==1.0.0
+
+# Task Scheduling
+apscheduler==3.10.4
+
+# Date/Time Utilities
+python-dateutil==2.8.2
+
+# ====================================
+# TESTING
+# ====================================
+
+# Testing Framework
+pytest==7.4.3
+pytest-asyncio==0.21.1
+pytest-cov==4.1.0
+
+# HTTP Mocking for Tests
+responses==0.24.1
+aioresponses==0.7.6
+
+# ====================================
+# CODE QUALITY
+# ====================================
+
+# Code Formatting
+black==23.12.1
+
+# Linting
+flake8==7.0.0
+pylint==3.0.3
+
+# Type Checking
+mypy==1.8.0
+
+# ====================================
+# DEVELOPMENT
+# ====================================
+
+# Interactive Python Shell
+ipython==8.19.0
+
+# Debugging
+ipdb==0.13.13
