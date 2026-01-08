@@ -321,6 +321,6 @@ Se você encontrar algum problema ou tiver dúvidas:
 
 **⭐ Se este projeto foi útil, considere dar uma estrela!**
 
-Made with ❤️ by Eric Macedo
+Made with by Eric Macedo
 
 </div>
